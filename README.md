@@ -1,10 +1,13 @@
 # Glyph Arcade
 
+<img src="icon-512.png" width="128" alt="Glyph Arcade icon">
+
 Nine little mobile games in one file, built from Mrmo's 1-bit art packs
 (Oh No More Goblins, MRMOTEXT, Microbe-2, LambdaRogue, Precise-M) and styled
 after the MRMO CRT, Halftone and DMG looks.
 
 Play it: open `index.html`, or visit the GitHub Pages site for this repo.
+On iPhone, use Share → Add to Home Screen to get the app icon.
 
 ## Games
 
